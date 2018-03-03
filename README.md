@@ -38,4 +38,5 @@ return(
   </div>
   );
 );
+export default withRouter(SmartColorWsatch);
 ```
